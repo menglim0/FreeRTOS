@@ -1,0 +1,5 @@
+-c --cpu Cortex-M3 -g -O0 --apcs=interwork -I.\Libraries -I.\Libraries\inc -I.\FreeRTOS\include -I.\FreeRTOS\portable -I.\User -I.\FreeRTOS
+-I D:\Keil\ARM\RV31\INC
+-I D:\Keil\ARM\CMSIS\Include
+-I D:\Keil\ARM\Inc\ST\STM32F10x
+-DUSE_STDPERIPH_DRIVER -DSTM32F10X_HD -o .\project\my_inittask.o --omf_browse .\project\my_inittask.crf --depend .\project\my_inittask.d "User\My_InitTask.c"

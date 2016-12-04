@@ -1,0 +1,13 @@
+.\project\queue.o: FreeRTOS\queue.c
+.\project\queue.o: D:\Keil\ARM\ARMCC\bin\..\include\stdlib.h
+.\project\queue.o: D:\Keil\ARM\ARMCC\bin\..\include\string.h
+.\project\queue.o: .\FreeRTOS\include\FreeRTOS.h
+.\project\queue.o: D:\Keil\ARM\ARMCC\bin\..\include\stddef.h
+.\project\queue.o: .\FreeRTOS\include\projdefs.h
+.\project\queue.o: .\FreeRTOS\include\FreeRTOSConfig.h
+.\project\queue.o: .\FreeRTOS\include\portable.h
+.\project\queue.o: .\FreeRTOS\portable\portmacro.h
+.\project\queue.o: .\FreeRTOS\include\mpu_wrappers.h
+.\project\queue.o: .\FreeRTOS\include\task.h
+.\project\queue.o: .\FreeRTOS\include\list.h
+.\project\queue.o: .\FreeRTOS\include\croutine.h
